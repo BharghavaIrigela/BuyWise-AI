@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "name": "ASUS Vivobook 15",
+    "category": "Laptop",
+    "brand": "ASUS",
+    "price": 55990,
+    "rating": 4.3,
+    "stock": 12,
+    "specifications": {
+      "processor": "Intel Core i5-1335U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "gpu": "Integrated"
+    }
+  },
+  {
+    "id": 2,
+    "name": "HP Pavilion Plus 14",
+    "category": "Laptop",
+    "brand": "HP",
+    "price": 74990,
+    "rating": 4.5,
+    "stock": 8,
+    "specifications": {
+      "processor": "Intel Core i7-1355U",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "gpu": "Integrated"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Lenovo LOQ 15",
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "price": 79990,
+    "rating": 4.6,
+    "stock": 6,
+    "specifications": {
+      "processor": "AMD Ryzen 7 7840HS",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "gpu": "NVIDIA RTX 4050"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy S24 FE",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 44999,
+    "rating": 4.5,
+    "stock": 15,
+    "specifications": {
+      "display": "6.7-inch AMOLED",
+      "ram": "8GB",
+      "storage": "128GB",
+      "camera": "50MP"
+    }
+  },
+  {
+    "id": 5,
+    "name": "OnePlus 13R",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 42999,
+    "rating": 4.6,
+    "stock": 10,
+    "specifications": {
+      "display": "6.78-inch AMOLED",
+      "ram": "12GB",
+      "storage": "256GB",
+      "camera": "50MP"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "brand": "Sony",
+    "price": 24990,
+    "rating": 4.7,
+    "stock": 9,
+    "specifications": {
+      "type": "Wireless",
+      "noise_cancellation": "Active",
+      "battery": "30 hours"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Dell UltraSharp U2723QE",
+    "category": "Monitor",
+    "brand": "Dell",
+    "price": 45999,
+    "rating": 4.6,
+    "stock": 5,
+    "specifications": {
+      "size": "27 inches",
+      "resolution": "4K UHD",
+      "panel": "IPS Black"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Apple MacBook Air M3",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 89990,
+    "rating": 4.8,
+    "stock": 7,
+    "specifications": {
+      "processor": "Apple M3",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "gpu": "Integrated"
+    }
+  }
+]
