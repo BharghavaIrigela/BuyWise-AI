@@ -26,7 +26,7 @@ function PaymentSuccessContent() {
     async function capturePayment() {
       try {
         const response = await fetch(
-          "http://127.0.0.1:8000/paypal/capture-order",
+          `${process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000"}/paypal/capture-order`,
           {
             method: "POST",
             headers: {
