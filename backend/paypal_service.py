@@ -62,8 +62,8 @@ async def create_paypal_order(amount: float, currency: str = "INR"):
                 "experience_context": {
                     "brand_name": "BuyWise AI",
                     "user_action": "PAY_NOW",
-                    "return_url": "http://localhost:3000/payment/success",
-                    "cancel_url": "http://localhost:3000/payment/cancel",
+                    "return_url": "https://buy-wise-ai-one.vercel.app/payment/success",
+                    "cancel_url": "https://buy-wise-ai-one.vercel.app/payment/cancel",
                 }
             }
         },
